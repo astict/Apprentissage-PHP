@@ -50,7 +50,7 @@ https://www.youtube.com/watch?v=79XwZrJdzho&list=PLrSOXFDHBtfFuZttC17M-jNpKnzUL5
 https://www.youtube.com/watch?v=0vS3fOkAbPs&list=PLrSOXFDHBtfFuZttC17M-jNpKnzUL5Adc&index=3
 
 
-### TUTO N°4 - Configurer environnement web -- ⏳
+### TUTO N°4 - Configurer environnement web -- ✅
 
 https://www.youtube.com/watch?v=rSd7NZfhjZg&list=PLrSOXFDHBtfFuZttC17M-jNpKnzUL5Adc&index=4
 

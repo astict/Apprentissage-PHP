@@ -1,0 +1,7 @@
+sudo nano /etc/apache2/apache2.conf
+
+--> AllowOvveride All
+
+sudo nano /etc/php/8.2/php.ini
+
+--> Les errors 'on'
