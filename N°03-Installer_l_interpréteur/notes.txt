@@ -1,0 +1,40 @@
+1. Installer PHP
+
+sudo apt update
+sudo apt install php
+sudo apt install libapache2-mod-php
+
+
+2. Où se trouvent les fichiers de configuration PHP ?
+
+Sous Linux, les fichiers de configuration se trouvent généralement dans : /etc/php/
+Puis dans le dossier correspondant à ta version de PHP : /etc/php/8.2/
+
+
+3. Afficher les erreurs PHP
+
+C'est une partie importante de la vidéo.
+Le but est de faire apparaître les erreurs PHP directement dans le navigateur pendant le développement.
+Le fichier concerné est notamment la configuration PHP utilisée par Apache.
+
+sudo nano /etc/php/8.2/apache2/php.ini
+
+
+4. Modifier display_errors
+
+Dans nano, cherche : display_errors
+Il faut obtenir quelque chose du genre : display_errors = On
+L'objectif est que PHP affiche les erreurs dans le navigateur pendant le développement.
+
+
+5. Modifier error_reporting
+
+Cherche ensuite : error_reporting
+et vérifie que la ligne est active et configurée pour rapporter les erreurs : error_reporting = E_ALL
+La vidéo insiste sur le fait que la valeur doit être correctement décommentée et configurée.
+
+----
+
+sudo systemctl restart apache2
+sudo systemctl status apache2
+

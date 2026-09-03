@@ -40,12 +40,12 @@ Ce parcours est basé sur la série de tutoriels de la chaîne *EvoluNoob*.
 https://www.youtube.com/watch?v=7lMXMLeawug&list=PLrSOXFDHBtfFuZttC17M-jNpKnzUL5Adc&index=1&t=5s
     
     
-### TUTO N°2 - Installer serveur HTTP -- ⏳
+### TUTO N°2 - Installer serveur HTTP -- ✅
 
 https://www.youtube.com/watch?v=79XwZrJdzho&list=PLrSOXFDHBtfFuZttC17M-jNpKnzUL5Adc&index=2
 
 
-### TUTO N°3 - Installer l'interpréteur -- ⏳
+### TUTO N°3 - Installer l'interpréteur -- ✅
 
 https://www.youtube.com/watch?v=0vS3fOkAbPs&list=PLrSOXFDHBtfFuZttC17M-jNpKnzUL5Adc&index=3
 

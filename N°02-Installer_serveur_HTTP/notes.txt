@@ -1,0 +1,26 @@
+1.Installer Apache2 via le terminal :
+
+apt update && sudo apt install apache2 -y
+
+
+2.Gérer le service Apache :
+
+Sur Linux, Apache se lance automatiquement au démarrage. Si tu préfères le gérer manuellement : 
+
+ - Désactiver le lancement automatique au démarrage : systemctl disable apache2
+ - Démarrer le serveur : systemctl start apache2
+ - Arrêter le serveur : systemctl stop apache2
+ - Redémarrer le serveur : systemctl restart apache2
+
+
+3.Vérifier le bon fonctionnement :
+
+Ouvre ton navigateur web et accède à la page : http://localhost  
+
+
+4.Configurer les permissions sur le dossier web :
+
+Par défaut, les fichiers web se trouvent dans /var/www/html. Pour pouvoir y créer et modifier tes fichiers sans devoir utiliser sudo à chaque fois : 
+                        - Donner les permissions de lecture/écriture : chmod -R 755 /var/www/html
+                        - Devenir propriétaire du dossier : chown -R $USER:$USER /var/www/html
+
