@@ -55,7 +55,7 @@ https://www.youtube.com/watch?v=0vS3fOkAbPs&list=PLrSOXFDHBtfFuZttC17M-jNpKnzUL5
 https://www.youtube.com/watch?v=rSd7NZfhjZg&list=PLrSOXFDHBtfFuZttC17M-jNpKnzUL5Adc&index=4
 
 
-### TUTO N°5 - Affichage -- ⏳
+### TUTO N°5 - Affichage -- ✅
 
 https://www.youtube.com/watch?v=CHcg88F21us&list=PLrSOXFDHBtfFuZttC17M-jNpKnzUL5Adc&index=5
 
