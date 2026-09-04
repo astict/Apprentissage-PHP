@@ -4,7 +4,7 @@
     4 types scalaires :
         Booléen (boolean, bool)
         Entier (integer, int)
-        Flottant (float, double)
+        Flottant (float, double, real)
         Chaîne de caractères (string)
     
     4 types composés :
@@ -28,6 +28,16 @@ $uneChaine = "oui";
 
 $mot = "bien ?";
 echo 'Tu vas '.$mot.' !';   //concaténation
+
+$b = &$mot;
+echo $b;
+
+echo (int)$unFlottant;
+echo (string)$unFlottant;
+
+unset($b);  //efface la variable de la mémoire
+var_dump($b);   //afficher informations d'une variable 
+
 
 ?>
 
