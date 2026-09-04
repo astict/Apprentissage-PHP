@@ -21,23 +21,35 @@
 $monPrenom = "Thomas";
 echo "Bonjour $monPrenom !\n";
 
+echo "<br>";
+
 $unBooleen = false;
 $unEntier = 0xAFD7;
 $unFlottant = 3.14;
 $uneChaine = "oui";
 
 $mot = "bien ?";
+$b = &$mot;
+$mot = "mal ?";
 echo 'Tu vas '.$mot.' !';   //concaténation
 
-$b = &$mot;
-echo $b;
+/* $b et $mot pointent vers le même emplacement en mémoire. Si la valeur de l'un change, l'autre changera automatiquement */
+
+
+echo "<br>";
 
 echo (int)$unFlottant;
+echo "<br>";
 echo (string)$unFlottant;
 
-unset($b);  //efface la variable de la mémoire
-var_dump($b);   //afficher informations d'une variable 
+echo "<br>";
 
+/*
+
+unset($monPrenom);  //efface la variable de la mémoire
+var_dump($monPrenom);   //afficher informations d'une variable 
+
+*/
 
 ?>
 

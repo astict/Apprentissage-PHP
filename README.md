@@ -60,7 +60,7 @@ https://www.youtube.com/watch?v=rSd7NZfhjZg&list=PLrSOXFDHBtfFuZttC17M-jNpKnzUL5
 https://www.youtube.com/watch?v=CHcg88F21us&list=PLrSOXFDHBtfFuZttC17M-jNpKnzUL5Adc&index=5
 
 
-### TUTO N°6 - Variables et types -- ⏳
+### TUTO N°6 - Variables et types -- ✅
 
 https://www.youtube.com/watch?v=PRXy1yA6O7w&list=PLrSOXFDHBtfFuZttC17M-jNpKnzUL5Adc&index=6
 
