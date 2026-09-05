@@ -70,7 +70,7 @@ https://www.youtube.com/watch?v=PRXy1yA6O7w&list=PLrSOXFDHBtfFuZttC17M-jNpKnzUL5
 https://www.youtube.com/watch?v=k1j01vaRHgo&list=PLrSOXFDHBtfFuZttC17M-jNpKnzUL5Adc&index=7
 
 
-### TUTO N°8 - Opérateurs -- ⏳
+### TUTO N°8 - Opérateurs -- ✅
 
 https://www.youtube.com/watch?v=FeLf4G800ks&list=PLrSOXFDHBtfFuZttC17M-jNpKnzUL5Adc&index=8
 
