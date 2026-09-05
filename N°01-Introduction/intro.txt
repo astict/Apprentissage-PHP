@@ -1,0 +1,9 @@
+-- Introduction au PHP
+
+Le PHP (Hypertext Preprocessor) est un langage de programmation principalement utilisé pour développer des sites web dynamiques. Il permet notamment de générer des pages HTML, de gérer des formulaires, des utilisateurs et de communiquer avec des bases de données.
+
+Le langage PHP a été créé en 1994 par Rasmus Lerdorf, à l’origine pour gérer une page web personnelle. Le projet s’appelait alors Personal Home Page Tools. Au fil du temps, PHP a évolué et a été repris par une communauté de développeurs, devenant progressivement un véritable langage de programmation.
+
+En 1997, PHP 3 marque une étape importante avec une nouvelle architecture et le nom PHP: Hypertext Preprocessor. Les versions suivantes, notamment PHP 4 en 2000 et PHP 5 en 2004, apportent de nombreuses améliorations, notamment au niveau de la programmation orientée objet.
+
+Aujourd’hui, PHP est toujours largement utilisé pour le développement web et constitue notamment la technologie derrière des outils et CMS populaires comme WordPress.

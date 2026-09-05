@@ -75,7 +75,7 @@ https://www.youtube.com/watch?v=k1j01vaRHgo&list=PLrSOXFDHBtfFuZttC17M-jNpKnzUL5
 https://www.youtube.com/watch?v=FeLf4G800ks&list=PLrSOXFDHBtfFuZttC17M-jNpKnzUL5Adc&index=8
 
 
-### TUTO N°9 - Conditions -- ⏳
+### TUTO N°9 - Conditions -- ✅
 
 https://www.youtube.com/watch?v=m2LT_aPPuvk&list=PLrSOXFDHBtfFuZttC17M-jNpKnzUL5Adc&index=9
 
