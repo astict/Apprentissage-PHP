@@ -80,7 +80,7 @@ https://www.youtube.com/watch?v=FeLf4G800ks&list=PLrSOXFDHBtfFuZttC17M-jNpKnzUL5
 https://www.youtube.com/watch?v=m2LT_aPPuvk&list=PLrSOXFDHBtfFuZttC17M-jNpKnzUL5Adc&index=9
 
 
-### TUTO N°10 - Boucles -- ⏳
+### TUTO N°10 - Boucles -- ✅
 
 https://www.youtube.com/watch?v=jfkq2iXGWcY&list=PLrSOXFDHBtfFuZttC17M-jNpKnzUL5Adc&index=10
 
