@@ -65,7 +65,7 @@ https://www.youtube.com/watch?v=CHcg88F21us&list=PLrSOXFDHBtfFuZttC17M-jNpKnzUL5
 https://www.youtube.com/watch?v=PRXy1yA6O7w&list=PLrSOXFDHBtfFuZttC17M-jNpKnzUL5Adc&index=6
 
 
-### TUTO N°7 - Constantes -- ⏳
+### TUTO N°7 - Constantes -- ✅
 
 https://www.youtube.com/watch?v=k1j01vaRHgo&list=PLrSOXFDHBtfFuZttC17M-jNpKnzUL5Adc&index=7
 
