@@ -85,7 +85,7 @@ https://www.youtube.com/watch?v=m2LT_aPPuvk&list=PLrSOXFDHBtfFuZttC17M-jNpKnzUL5
 https://www.youtube.com/watch?v=jfkq2iXGWcY&list=PLrSOXFDHBtfFuZttC17M-jNpKnzUL5Adc&index=10
 
 
-### TUTO N°11 - Fonctions -- ⏳
+### TUTO N°11 - Fonctions -- ✅
 
 https://www.youtube.com/watch?v=YCIMh2dH8AI&list=PLrSOXFDHBtfFuZttC17M-jNpKnzUL5Adc&index=11
 
