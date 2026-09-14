@@ -90,7 +90,7 @@ https://www.youtube.com/watch?v=jfkq2iXGWcY&list=PLrSOXFDHBtfFuZttC17M-jNpKnzUL5
 https://www.youtube.com/watch?v=YCIMh2dH8AI&list=PLrSOXFDHBtfFuZttC17M-jNpKnzUL5Adc&index=11
 
 
-### TUTO N°12 - Tableaux -- ⏳
+### TUTO N°12 - Tableaux -- ✅
 
 https://www.youtube.com/watch?v=vZs202lVwJQ&list=PLrSOXFDHBtfFuZttC17M-jNpKnzUL5Adc&index=12
 
